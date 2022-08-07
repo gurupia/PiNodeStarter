@@ -1,5 +1,5 @@
 # PiNodeStarter
-Pi Node Starter v1  - GUI Util
+Pi Node Starter v1  - GUI Util / 
 Pi Node Starter downloader - CUI Util
  
  현재의 프로그램은 테스트 버전입니다. 
