@@ -1,0 +1,12 @@
+[wsl2]
+#path=<path>                  # 사용자 지정 Linux 커널에 대한 Windows 절대 경로입니다.
+#memory=4G                    # WSL2 VM에 할당할 메모리 양입니다.
+#processors=<number>          # WSL2 VM에 할당할 프로세서 수입니다.
+#swap=<size>                  # WSL2 VM에 추가할 스왑 공간입니다. 스왑 파일이 없는 경우 0.
+#swapFile=<path>              # 스왑 VHD에 대한 Windows 절대 경로입니다.
+#localhostForwarding=<boole>  # WSL2 VM에서 와일드카드 또는 로컬 호스트에 바인딩된 포트를 localhost:port를 통해 호스트에서 연결할 수 있는지 여부를 지정하는 논리값입니다(기본값 true).
+# <path> 항목은 이스케이프 백슬래시가 있는 Windows 절대 경로여야 합니다(예: C:\\Users\Ben\kernel).
+# <size> 항목은 크기 다음에 단위(예: 8GB 또는 512)를 지정해야 합니다).MB입니다
+memory=8GB
+swap=4GB
+processors=4
