@@ -7,6 +7,8 @@
 #localhostForwarding=<boole>  # WSL2 VM에서 와일드카드 또는 로컬 호스트에 바인딩된 포트를 localhost:port를 통해 호스트에서 연결할 수 있는지 여부를 지정하는 논리값입니다(기본값 true).
 # <path> 항목은 이스케이프 백슬래시가 있는 Windows 절대 경로여야 합니다(예: C:\\Users\Ben\kernel).
 # <size> 항목은 크기 다음에 단위(예: 8GB 또는 512)를 지정해야 합니다).MB입니다
+# 옵션 설명 한글번역: gurupia@naver.com
+
 memory=8GB
 swap=4GB
 processors=4
