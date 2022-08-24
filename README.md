@@ -3,7 +3,8 @@ Pi Node Starter v1  - GUI Util (Pi Node Starter v1-gurupia.7z)
 
 Pi Node Starter downloader - CUI Util (PiNodeStarter_Downloader.7z)
  
- 현재의 프로그램은 테스트 버전입니다.  빠져있는 기능들은 3rd party 유틸리티들로  배포시 제외 되었습니다.
+ 현재의 프로그램은 테스트 버전입니다.  
+ 빠져있는 기능들은 3rd party 유틸리티들로  배포시 제외 되었습니다.
  테스트 프로그램의 사용에 대한 책임은 사용자에게 있습니다.
  
  [Docker] 메뉴의 Docker-Restart 기능은 수시로 진행 방식을 바꿔가며 현재 테스트 중이므로 해당 지식이 없는 분들은 사용하지 마십시오.
