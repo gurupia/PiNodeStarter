@@ -1,7 +1,7 @@
 # PiNodeStarter
 Pi Node Starter v1  - GUI Util (Pi Node Starter v1-gurupia.7z) - updated 20230502
 
-Pi Node Starter downloader - CUI Util (PiNodeStarter_Downloader.7z)
+Pi Node Starter downloader - CUI Util (PiNodeStarter_Downloader.7z) - update 20230502
  
  현재의 프로그램은 테스트 버전입니다.  
  빠져있는 기능들은 3rd party 유틸리티들로  배포시 제외 되었습니다.  
