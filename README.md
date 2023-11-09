@@ -17,7 +17,6 @@ Pi Node Starter downloader - CUI Util (PiNodeStarter_Downloader.7z) - update 202
  <해당 프로그램을 사용하는것에 대한 고지 사항>
  
 1. 공개 테스트 버전으로 누구나 자유롭게 다운 받아 사용하실 수 있으나 유틸을 사용한 영리적 목적의 이용은 불허합니다.
-2. 해당 유틸을 영리적 목적으로 사용하는 경우를 보시면 제보해 주십시오. email: gurupia@naver.com
 
 [카카오톡 오픈톡방] 인원제한 50명
 https://open.kakao.com/o/g44sHwee
