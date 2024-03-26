@@ -1,18 +1,11 @@
 # PiNodeStarter
 Pi Node Starter v1  - GUI Util (Pi Node Starter v1-gurupia.7z) - updated 20230502
 
-Pi Node Starter downloader - CUI Util (PiNodeStarter_Downloader.7z) - update 20230502
+Pi Node Starter downloader - CUI Util (PiNodeStarter_Downloader.7z) - update 20240326
  
  현재의 프로그램은 테스트 버전입니다.  
  빠져있는 기능들은 3rd party 유틸리티들로  배포시 제외 되었습니다.  
  테스트 프로그램의 사용에 대한 책임은 사용자에게 있습니다.
- 
- [Docker] 메뉴의 Docker-Restart 기능은 수시로 방식을 바꿔가며 테스트 중이므로 해당 지식이 없는 분들은 사용하지 마십시오.  
- 
-- AutoHotkey 버전, 배치파일 버전, 파워쉘 버전  3가지를 테스트 하고 있습니다.
-- 현재 테스트 중인것은 파워쉘 스크립트 버전 입니다. 
-- gurupia_tools\DockerPS-Restart.exe + Docker-Restart.ps1 2개의 파일로 분리되어 있어서 일정 간격으로 도커 재시작을 해야하는 분들의 경우 2개의 파일을 같은 경로에 넣어두고 스케줄러 프로그램등에 등록해서 테스트하시면 됩니다.
- 
  
  <해당 프로그램을 사용하는것에 대한 고지 사항>
  
