@@ -1,5 +1,5 @@
 # PiNodeStarter
-Pi Node Starter v1  - GUI Util (Pi Node Starter v1-gurupia.7z) - updated 202404
+Pi Node Starter v1.1  - GUI Util (Pi Node Starter v1.1-gurupia.7z) - updated 202404
 
 Pi Node Starter downloader - CUI Util (PiNodeStarter_Downloader.7z) - update 202404
 
