@@ -4,7 +4,7 @@ Pi Node Starter v1.1  - GUI Util (Pi Node Starter v1.1-gurupia.7z) - updated 202
 Pi Node Starter downloader - CUI Util (PiNodeStarter_Downloader.7z) - update 202404
 
 [변경 사항]
-- Pi Network Node 0.4.10 지원 업데이트 (2024.04.10) - disable
+- Pi Network Node 0.4.10 지원 업데이트 (2024.04.10) - Disable
 - Pi Network Node 0.4.11 지원 업데이트 (2024.04.25) - Enable
 
  현재의 프로그램은 테스트 버전입니다.  
@@ -18,14 +18,4 @@ Pi Node Starter downloader - CUI Util (PiNodeStarter_Downloader.7z) - update 202
 [카카오톡 오픈톡방] 인원제한 50명
 https://open.kakao.com/o/g44sHwee
 
-[upbit.com TRX wallet] TAPTHz9AT4GK29PpWGLUtWDypEbMT61UDe
-
 [Pi Wallet] GDNBMMYUYXCNX5XPQFJVJDT7DD42BSLSFOLEO4FL2BJXDPMTGYVA7IRR
-
-[binance TRX Wallet] TAPTHz9AT4GK29PpWGLUtWDypEbMT61UDe
-
-
-
-
-
-
