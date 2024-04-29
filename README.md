@@ -6,6 +6,7 @@ Pi Node Starter downloader - CUI Util (PiNodeStarter_Downloader.7z) - update 202
 [변경 사항]
 - Pi Network Node 0.4.10 지원 업데이트 (2024.04.10) - x 
 - Pi Network Node 0.4.11 / Pi Check 14.0.0 Download 지원 업데이트 (2024.04.29) - Active
+
  현재의 프로그램은 테스트 버전입니다.  
  빠져있는 기능들은 3rd party 유틸리티들로  배포시 제외 되었습니다.  
  테스트 프로그램의 사용에 대한 책임은 사용자에게 있습니다.
