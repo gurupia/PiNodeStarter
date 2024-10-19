@@ -20,4 +20,6 @@ Pi Node Starter Downloader - CUI Util (PiNodeStarter_Downloader.7z) - update 202
 [카카오톡 오픈톡방] 인원제한 50명
 https://open.kakao.com/o/g44sHwee
 
-[Pi Wallet] GDNBMMYUYXCNX5XPQFJVJDT7DD42BSLSFOLEO4FL2BJXDPMTGYVA7IRR
+![Pi Wallet](https://github.com/gurupia/PiNodeStarter/blob/main/PiWalletQR-gurupia.jpg)
+GDNBMMYUYXCNX5XPQFJVJDT7DD42BSLSFOLEO4FL2BJXDPMTGYVA7IRR
+
