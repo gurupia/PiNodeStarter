@@ -24,7 +24,7 @@ https://open.kakao.com/o/g44sHwee
 
 <img src="https://github.com/gurupia/PiNodeStarter/blob/main/500x500_PiWalletQR-Frame-gurupia.png" width=300 height=300>
 
-![Pi Node Wiki 기계번역]<a href="https://github.com/pi-node/instructions/wiki">Pi Node Wiki</a>
+[<a href="https://github.com/pi-node/instructions/wiki">Pi Node Wiki</a> 기계번역]
 
 노드는 파이 생태계의 네 번째 역할로, 휴대폰 대신 노트북과 데스크톱에서 실행됩니다. 
 
