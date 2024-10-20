@@ -24,7 +24,8 @@ https://open.kakao.com/o/g44sHwee
 
 <img src="https://github.com/gurupia/PiNodeStarter/blob/main/500x500_PiWalletQR-Frame-gurupia.png" width=300 height=300>
 
-[Pi Node Wiki 기계번역]<a href="https://github.com/pi-node/instructions/wiki">Pi Node Wiki</a>
+![Pi Node Wiki 기계번역]<a href="https://github.com/pi-node/instructions/wiki">Pi Node Wiki</a>
+
 노드는 파이 생태계의 네 번째 역할로, 휴대폰 대신 노트북과 데스크톱에서 실행됩니다. 
 
 다른 블록체인과 마찬가지로 파이 노드는 분산 원장에서 거래를 검증하고 모든 노드가 기록 중인 신규 거래 순서에 대해 "합의"를 도출하여 분산 통화를 유지하는 데 어려움을 해결하는 역할을 합니다.
