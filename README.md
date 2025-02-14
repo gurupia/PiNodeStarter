@@ -1,6 +1,6 @@
 # PiNodeStarter
 Pi Node Starter v1.1  - GUI Util (Pi Node Starter v1.1-gurupia.7z) - updated 2025.02.14
-![Pi Node Starter v1.1 스크린 샷](https://github.com/gurupia/PiNodeStarter/blob/main/PiNodeStarterv1.1-%20add%20UUID%20View%20-%202023-05-26%2000%2009%2037.jpg?raw=true)
+![Pi Node Starter v1.1 스크린 샷]([https://github.com/gurupia/PiNodeStarter/blob/main/PiNodeStarterv1.1-%20add%20UUID%20View%20-%202023-05-26%2000%2009%2037.jpg?raw=true](https://github.com/gurupia/PiNodeStarter/blob/main/PiNodeStarter-gurupia-20250215-024141.png?raw=true))
 
 Pi Node Starter Downloader - CUI Util (PiNodeStarter_Downloader.7z) - update 2025.02.14
 ![Pi Node Starter Downloader 스크린샷](https://raw.githubusercontent.com/gurupia/PiNodeStarter/refs/heads/main/PiNodeStarter_Downloader.7z-gurupia-20241018-192407.gif)
