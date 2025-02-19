@@ -9,7 +9,8 @@ Pi Node Starter Downloader - CUI Util (PiNodeStarter_Downloader.7z) - update 202
 - Pi Network Node 0.5.1 / Pi Check 18.1.0 Download 지원 업데이트 (2025.02.19) 
 - Pi Check 18.1.0 Download 후 구버전에 덮어쓰기 방식으로 기능 변경 (2025.02.19) - Active
 
-- <해당 프로그램을 사용하는 것에 대한 고지 사항>
+<해당 프로그램을 사용하는 것에 대한 고지 사항>
+
 공개 테스트 버전으로 누구나 자유롭게 다운로드하여 사용하실 수 있으나 유틸을 사용한 영리적 목적의 이용은 불허합니다.
 
 [카카오톡 오픈톡방] 인원제한 50명 https://open.kakao.com/o/g44sHwee
