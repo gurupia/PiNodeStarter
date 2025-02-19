@@ -2,7 +2,7 @@
 Pi Node Starter v1.1  - GUI Util (Pi Node Starter v1.1-gurupia.7z) - updated 2025.02.19
 ![Pi Node Starter v1.1 스크린 샷](https://github.com/gurupia/PiNodeStarter/blob/main/PiNodeStarter-gurupia-20250215-024141.png)
 Pi Node Starter Downloader - CUI Util (PiNodeStarter_Downloader.7z) - update 2025.02.19
-![Pi Node Starter Downloader 스크린샷]([https://github.com/gurupia/PiNodeStarter/blob/main/PiNodeStarterDownloader-gurupia-20250215-025029.png](https://github.com/gurupia/PiNodeStarter/blob/main/PiNodeStarter_Downloader-0.5.1-gurupia-20250219-210724.png))
+![Pi Node Starter Downloader 스크린샷]([[https://github.com/gurupia/PiNodeStarter/blob/main/PiNodeStarterDownloader-gurupia-20250215-025029.png](https://github.com/gurupia/PiNodeStarter/blob/main/PiNodeStarter_Downloader-0.5.1-gurupia-20250219-210724.png](https://github.com/gurupia/PiNodeStarter/blob/main/PiNodeStarter_Downloader-0.5.1-gurupia-20250219-210724.png))
 
 [변경 사항]
 - Pi Network Node 0.5.1 / Pi Check 17.5.0 Download 지원 업데이트 (2025.02.19) 
