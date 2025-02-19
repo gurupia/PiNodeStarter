@@ -16,8 +16,8 @@ Pi Node Starter Downloader - CUI Util (PiNodeStarter_Downloader.7z) - update 202
 [카카오톡 오픈톡방] 인원제한 50명 
 https://open.kakao.com/o/g44sHwee
 
-톡방은 보안서클, 레퍼럴, 지인, 파이 커뮤니티에서 해결 하기 어려운 기술적 문제등에 대한 주제및 기타 블록체인 관련 기술 토론 목적으로 개설되었습니다.
-기초적인 질문등은 카페나 다른 톡방을 이용해주시기 바랍니다.
+톡방은 보안서클, 레퍼럴, 지인들과 원활한 소통을 위해 개설 되었지만 테스트 노드 초창기에 파이 커뮤니티에서 해결 하기 어려운 기술적 문제등에 질문이 많아 이에 대한 주제및 기타 블록체인 관련 기술 에 대한 토론도 가능 하도록 범위를 확장 하였습니다.
+노드 관련 기초적인 질문등은 파이 관련 카페나 다른 톡방을 이용해주시기 바랍니다.
 
 [Pi Wallet] GDNBMMYUYXCNX5XPQFJVJDT7DD42BSLSFOLEO4FL2BJXDPMTGYVA7IRR
 
