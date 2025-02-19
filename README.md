@@ -21,9 +21,12 @@ https://open.kakao.com/o/g44sHwee
 
 [텔레그램 채널]
 https://t.me/+bevFA-V6CIljNDQ9
+
 Pi Node 한글판 + Pi Node 유틸 - Pi NODE 설치 지원용으로 개설. 노드는 본인이 직접 해봐야하고 할 줄 알아야합니다. (Admin: gurupia)
 t.me
+
 텔레그램 채널은 개인 작업 공간 및 지인 초대로 운영하다가 테스트 노드 시작할 때 노드 한글 버전 공개 테스트 진행을 위해서 공개한 뒤로 계속 열어두고 있습니다.
+
 특별한 정보는 없고 시간 날 때 작업한 것을 기록할 목적으로 개설한 채널이라 파이 관련 전반적인 정보는 커뮤니티나 다른 채널을 이용해 주시기 바랍니다.
 
 [Pi Wallet] GDNBMMYUYXCNX5XPQFJVJDT7DD42BSLSFOLEO4FL2BJXDPMTGYVA7IRR
