@@ -19,6 +19,13 @@ https://open.kakao.com/o/g44sHwee
 톡 방은 보안 서클, 레퍼랄, 지인들과 원활한 소통을 위해 개설되었지만 테스트 노드 초창기에 파이 커뮤니티에서 해결하기 어려운 기술적 문제 등에 대한 질문이 많아 이에 대한 주제 및 기타 블록체인 관련 기술에 대한 토론도 가능하도록 범위를 확장하였습니다. 
 노드 관련 기초적인 질문 등은 파이 관련 카페나 다른 톡 방을 이용해 주시기 바랍니다.
 
+[텔레그램 채널]
+https://t.me/+bevFA-V6CIljNDQ9
+Pi Node 한글판 + Pi Node 유틸 - Pi NODE 설치 지원용으로 개설. 노드는 본인이 직접 해봐야하고 할 줄 알아야합니다. (Admin: gurupia)
+t.me
+텔레그램 채널은 개인 작업 공간 및 지인 초대로 운영하다가 테스트 노드 시작할 때 노드 한글 버전 공개 테스트 진행을 위해서 공개한 뒤로 계속 열어두고 있습니다.
+특별한 정보는 없고 시간 날 때 작업한 것을 기록할 목적으로 개설한 채널이라 파이 관련 전반적인 정보는 커뮤니티나 다른 채널을 이용해 주시기 바랍니다.
+
 [Pi Wallet] GDNBMMYUYXCNX5XPQFJVJDT7DD42BSLSFOLEO4FL2BJXDPMTGYVA7IRR
 
 <img src="https://github.com/gurupia/PiNodeStarter/blob/main/500x500_PiWalletQR-Frame-gurupia.png" width=300 height=300>
