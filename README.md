@@ -1,13 +1,14 @@
 # PiNodeStarter
-Pi Node Starter v1.1  - GUI Util (Pi Node Starter v1.1-gurupia.7z) - updated 2025.02.19
+Pi Node Starter v1.1  - GUI Util (Pi Node Starter v1.1-gurupia.7z) - updated 2025.03.08
 ![Pi Node Starter v1.1 스크린 샷](PiNodeStarter-gurupia-20250215-024141.png)
 
 Pi Node Starter Downloader - CUI Util (PiNodeStarter_Downloader.7z) - update 2025.02.19
 ![Pi Node Starter Downloader 스크린샷](PiNodeStarter_Downloader-0.5.1-gurupia-20250219-210724.png)
 
 [변경 사항]
-- Pi Network Node 0.5.1 / Pi Check 18.1.0 Download 지원 업데이트 (2025.02.19) 
-- Pi Check 18.1.0 Download 후 구버전에 덮어쓰기 방식으로 기능 변경 (2025.02.19) - Active
+- Pi Network Node 0.5.1 / Pi Check 18.1.0 Download 지원 업데이트 (2025.03.08) 
+- Pi Check 19.0.0 Download 후 구버전에 덮어쓰기 방식으로 기능 변경 (2025.03.08) - Active
+- Docker Desktop 4.39.0
 
 <해당 프로그램을 사용하는 것에 대한 고지 사항>
 
