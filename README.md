@@ -6,9 +6,10 @@ Pi Node Starter Downloader - CUI Util (PiNodeStarter_Downloader.7z) - update 202
 ![Pi Node Starter Downloader 스크린샷](PiNodeStarterDownloader-0.5.1-gurupia-20250308-031421.png)
 
 [변경 사항]
-- Pi Network Node 0.5.1 / Pi Check 19.0.0 Download 지원 업데이트 (2025.03.08) 
-- Pi Check 19.0.0 Download 후 구버전에 덮어쓰기 방식으로 기능 변경 (2025.03.08) - Active
-- Docker Desktop 4.39.0 Download 지원 (2025.03.08)
+-Support Pi Node 0.5.1 download (공식사이트 https://minepi.com 에서 다운로드)
+-Support Pi Node 0.5.1 download (속도 빠른 https://github.com/pi-node/pi-node/releases 에서 다운로드)
+-Support Docker Desktop 4.39.0 download
+-Support Pi Check 20.0.0 download
 
 <해당 프로그램을 사용하는 것에 대한 고지 사항>
 
