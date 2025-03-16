@@ -7,7 +7,7 @@ Pi Node Starter Downloader - CUI Util (PiNodeStarter_Downloader.7z) - update 202
 
 [변경 사항]
 
--Support Pi Node 0.5.1 download (공식사이트 (https://minepi.com/pi-blockchain/pi-node/) 에서 다운로드)
+-Support Pi Node 0.5.1 download (공식사이트 https://minepi.com/pi-blockchain/pi-node/ 에서 다운로드)
 
 -Support Pi Node 0.5.1 download (속도 빠른 https://github.com/pi-node/pi-node/releases 에서 다운로드)
 
