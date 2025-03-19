@@ -9,5 +9,5 @@ https://github.com/pi-node/pi-node/releases/download/0.5.1/Pi.Network.Setup.0.5.
 Docker Desktop 4.39.0 download  
 https://desktop.docker.com/win/main/amd64/184744/Docker%20Desktop%20Installer.exe
 
-Pi Check 20.0.0 download  
+Pi Check 20.1.0 download  
 
