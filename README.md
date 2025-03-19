@@ -21,6 +21,7 @@ https://github.com/pi-node/pi-node/releases/download/0.5.1/Pi.Network.Setup.0.5.
 -Support Pi Check 20.1.0 download
 
 
+
 <해당 프로그램을 사용하는 것에 대한 고지 사항>
 
 공개 테스트 버전으로 누구나 자유롭게 다운로드하여 사용하실 수 있으나 유틸을 사용한 영리적 목적의 이용은 불허합니다.
