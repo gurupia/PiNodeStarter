@@ -1,10 +1,9 @@
 # PiNodeStarter
-Pi Node Starter v1.1  - GUI Util (Pi Node Starter v1.1-gurupia.7z) - updated 2025.03.19
+Pi Node Starter v1.1  - GUI Util (Pi Node Starter v1.1-gurupia.7z) - updated 2025.03.21
 ![Pi Node Starter v1.1 스크린 샷](ScreenShot/PiNodeStarter-gurupia-20250215-024141.png)
 
 Pi Node Starter Downloader - CUI Util (PiNodeStarter_Downloader.7z) - update 2025.03.19
 ![Pi Node Starter Downloader 스크린샷](PiNodeStarterDownloader-0.5.1-gurupia-20250317-061026.png)
-
 
 [변경 사항]
 
@@ -21,6 +20,8 @@ https://desktop.docker.com/win/main/amd64/184744/Docker%20Desktop%20Installer.ex
 
 -Support Pi Check 20.1.0 download
 https://raw.githubusercontent.com/muratyurdakul75/picheck/refs/heads/main/PiCheck%2020.1.0.zip
+
+-프로그램 시작시 파이 노드 설치환경 체크를 우선하도록 수정 (Pi Node Starter v1.1-gurupia.7z)
 
 
 
