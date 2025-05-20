@@ -1,8 +1,8 @@
 # PiNodeStarter
-Pi Node Starter v1.1  - GUI Util (Pi Node Starter v1.1-gurupia.7z) - updated 2025.03.26
+Pi Node Starter v1.1  - GUI Util (Pi Node Starter v1.1-gurupia.7z) - updated 2025.05.21
 ![Pi Node Starter v1.1 스크린 샷](PiNodeStarter-v1.1-AddMenu-CEX-gurupia-20250326-082909.png)
 
-Pi Node Starter Downloader - CUI Util (PiNodeStarter_Downloader.7z) - update 2025.03.22
+Pi Node Starter Downloader - CUI Util (PiNodeStarter_Downloader.7z) - update 2025.05.21
 ![Pi Node Starter Downloader 스크린샷](PiNodeStarter_Downloader-0.5.1-gurupia-20250322-162820.png)
 
 [변경 사항]
@@ -17,10 +17,10 @@ https://downloads.minepi.com/Pi%20Network%20Setup%200.5.1.exe
 
 https://github.com/pi-node/pi-node/releases/download/0.5.1/Pi.Network.Setup.0.5.1.exe
 
--Support Docker Desktop 4.39.0 download 
+-Support Docker Desktop 4.41.2 download 
 https://desktop.docker.com/win/main/amd64/184744/Docker%20Desktop%20Installer.exe
 
--Support Pi Check 20.1.0 download
+-Support Pi Check 20.2.0 download
 https://raw.githubusercontent.com/muratyurdakul75/picheck/refs/heads/main/PiCheck%2020.1.0.zip
 
 -프로그램 시작시 파이 노드 설치환경 체크를 우선하도록 수정 (저사양 PC에서는 느려짐) (Pi Node Starter v1.1-gurupia.7z)
