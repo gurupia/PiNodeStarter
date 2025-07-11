@@ -3,7 +3,7 @@ Pi Node Starter v1.1  - GUI Util (Pi Node Starter v1.1-gurupia.7z) - updated 202
 ![Pi Node Starter v1.1 스크린 샷](PiNodeStarter-v1.1-AddMenu-CEX-gurupia-20250326-082909.png)
 
 Pi Node Starter Downloader - CUI Util (PiNodeStarter_Downloader.7z) - update 2025.07.11
-![Pi Node Starter Downloader 스크린샷](pinodestarter_downloader-0.5.1-gurupia-20250626-023351.png)
+![Pi Node Starter Downloader 스크린샷](pinodestarter_downloader-0.5.3-gurupia-20250711-142614.png)
 
 [변경 사항]
 
