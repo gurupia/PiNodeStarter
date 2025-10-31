@@ -1,21 +1,21 @@
 # PiNodeStarter
-Pi Node Starter v1.1  - GUI Util (Pi Node Starter v1.1-gurupia.7z) - updated 2025.07.11
+Pi Node Starter v1.1  - GUI Util (Pi Node Starter v1.1-gurupia.7z) - updated 2025.11.01
 ![Pi Node Starter v1.1 스크린 샷](PiNodeStarter-v1.1-AddMenu-CEX-gurupia-20250326-082909.png)
 
-Pi Node Starter Downloader - CUI Util (PiNodeStarter_Downloader.7z) - update 2025.07.11
+Pi Node Starter Downloader - CUI Util (PiNodeStarter_Downloader.7z) - update 2025.11.01
 ![Pi Node Starter Downloader 스크린샷](pinodestarter_downloader-0.5.3-gurupia-20250711-142614.png)
 
 [변경 사항]
 
 -파이 관련 링크 추가(piscan.io, 거래소 사이트 메뉴 추가)
 
--Support Pi Node 0.5.3 download (공식사이트 https://minepi.com/pi-blockchain/pi-node/ 에서 다운로드) 
+-Support Pi Node 0.5.4 download (공식사이트 https://minepi.com/pi-blockchain/pi-node/ 에서 다운로드) 
 
-https://downloads.minepi.com/Pi%20Network%20Setup%200.5.3.exe
+https://downloads.minepi.com/Pi%20Network%20Setup%200.5.4.exe
 
--Support Pi Node 0.5.3 download (속도 빠른 https://github.com/pi-node/pi-node/releases 에서 다운로드) 
+-Support Pi Node 0.5.4 download (속도 빠른 https://github.com/pi-node/pi-node/releases 에서 다운로드) 
 
-[https://github.com/pi-node/pi-node/releases/download/0.5.3/Pi.Network.Setup.0.5.3.exe](https://github.com/pi-node/pi-node/releases/download/0.5.3/Pi.Network.Setup.0.5.3.exe)
+[https://github.com/pi-node/pi-node/releases/download/0.5.4/Pi.Network.Setup.0.5.4.exe](https://github.com/pi-node/pi-node/releases/download/0.5.4/Pi.Network.Setup.0.5.4.exe)
 
 -Support Docker Desktop 4.41.2 download 
 https://desktop.docker.com/win/main/amd64/184744/Docker%20Desktop%20Installer.exe
